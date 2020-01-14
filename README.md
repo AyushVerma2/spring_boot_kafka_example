@@ -21,3 +21,7 @@ Let's create a topic named "test" with a single partition and only one replica:
 ### run the spring boot applicaiton and past this on broser "http://localhost:8080/user/testing" , 
 you will see in consumebr termial testing will be printed.
 
+#### References:
+https://kafka.apache.org/quickstart
+
+
