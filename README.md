@@ -1,4 +1,4 @@
-### spring_boot_kafka_producer_example 
+### spring_boot_kafka_producer_DEMO
  kafka producer demo using spring boot
 ##### Download kafka from : https://www.apache.org/dyn/closer.cgi?path=/kafka/2.4.0/kafka_2.12-2.4.0.tgz
 
