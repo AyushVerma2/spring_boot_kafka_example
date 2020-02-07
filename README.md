@@ -73,4 +73,4 @@ all streams lead to kafka
 #### References:
 https://kafka.apache.org/quickstart
 
-
+https://kafka.apache.org/24/documentation/streams/quickstart
